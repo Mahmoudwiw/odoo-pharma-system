@@ -1,0 +1,31 @@
+﻿Name,Internal Reference,Barcode,Product Category,Product Type,Track Inventory,Tracking,use_expiration_date,Sales Price,Cost,expiration_time,use_time,removal_time,alert_time
+Lantus SoloStar Insulin 100 IU (Cold Chain),MED-001,6221001001,Medicines,Goods,TRUE,By Lots,TRUE,650,520,365,335,350,90
+Humalog Mix 25 KwikPen (Cold Chain),MED-002,6221001002,Medicines,Goods,TRUE,By Lots,TRUE,580,460,365,335,350,90
+Mixtard 30 Penfill 100 IU (Cold Chain),MED-003,6221001003,Medicines,Goods,TRUE,By Lots,TRUE,310,245,365,335,350,90
+Hepatitis B Vaccine Vial (Cold Chain),MED-004,6221001004,Medicines,Goods,TRUE,By Lots,TRUE,190,150,540,510,525,90
+Augmentin 1g Tablets 14 Tabs,MED-005,6221001005,Medicines,Goods,TRUE,By Lots,TRUE,180,140,730,700,715,90
+Augmentin 625mg Tablets 14 Tabs,MED-006,6221001006,Medicines,Goods,TRUE,By Lots,TRUE,135,105,730,700,715,90
+Zithromax 500mg Tablets 3 Tabs,MED-007,6221001007,Medicines,Goods,TRUE,By Lots,TRUE,120,92,730,700,715,90
+Ciprofar 500mg Tablets 10 Tabs,MED-008,6221001008,Medicines,Goods,TRUE,By Lots,TRUE,75,57,730,700,715,90
+Flagyl 500mg Tablets 20 Tabs,MED-009,6221001009,Medicines,Goods,TRUE,By Lots,TRUE,42,31,1095,1065,1080,90
+Panadol Extra 24 Tabs,MED-010,6221001010,Medicines,Goods,TRUE,By Lots,TRUE,65,48,730,700,715,90
+Cataflam 50mg 20 Tabs,MED-011,6221001011,Medicines,Goods,TRUE,By Lots,TRUE,72,55,730,700,715,90
+Brufen 400mg 30 Tabs,MED-012,6221001012,Medicines,Goods,TRUE,By Lots,TRUE,58,44,1095,1065,1080,90
+Voltaren Emulgel 50g,MED-013,6221001013,Medicines,Goods,TRUE,By Lots,TRUE,88,68,730,700,715,90
+Concor 5mg 30 Tabs,MED-014,6221001014,Medicines,Goods,TRUE,By Lots,TRUE,95,72,730,700,715,90
+Norvasc 5mg 30 Tabs,MED-015,6221001015,Medicines,Goods,TRUE,By Lots,TRUE,110,85,1095,1065,1080,90
+Lipitor 20mg 30 Tabs,MED-016,6221001016,Medicines,Goods,TRUE,By Lots,TRUE,185,145,1095,1065,1080,90
+Plavix 75mg 28 Tabs,MED-017,6221001017,Medicines,Goods,TRUE,By Lots,TRUE,260,205,730,700,715,90
+Clexane 40mg Syringe,MED-018,6221001018,Medicines,Goods,TRUE,By Lots,TRUE,420,340,540,510,525,90
+Glucophage 500mg 50 Tabs,MED-019,6221001019,Medicines,Goods,TRUE,By Lots,TRUE,48,36,1095,1065,1080,90
+Januvia 100mg 28 Tabs,MED-020,6221001020,Medicines,Goods,TRUE,By Lots,TRUE,395,315,730,700,715,90
+Amaryl 3mg 30 Tabs,MED-021,6221001021,Medicines,Goods,TRUE,By Lots,TRUE,78,60,1095,1065,1080,90
+Nexium 40mg 14 Tabs,MED-022,6221001022,Medicines,Goods,TRUE,By Lots,TRUE,210,165,730,700,715,90
+Controloc 40mg 14 Tabs,MED-023,6221001023,Medicines,Goods,TRUE,By Lots,TRUE,160,125,730,700,715,90
+Antodine 20mg Ampoules 6 Amp,MED-024,6221001024,Medicines,Goods,TRUE,By Lots,TRUE,55,41,730,700,715,90
+Ventolin Inhaler 100mcg,MED-025,6221001025,Medicines,Goods,TRUE,By Lots,TRUE,62,47,730,700,715,90
+Zyrtec 10mg 10 Tabs,MED-026,6221001026,Medicines,Goods,TRUE,By Lots,TRUE,45,34,1095,1065,1080,90
+Mucosolvan Syrup 100ml,MED-027,6221001027,Medicines,Goods,TRUE,By Lots,TRUE,52,39,730,700,715,90
+Neurobion Forte 30 Tabs,MED-028,6221001028,Medicines,Goods,TRUE,By Lots,TRUE,78,59,730,700,715,90
+Vitamin D3 50000 IU 4 Caps,MED-029,6221001029,Medicines,Goods,TRUE,By Lots,TRUE,85,62,730,700,715,90
+Ferrous Sulfate Iron Syrup 120ml,MED-030,6221001030,Medicines,Goods,TRUE,By Lots,TRUE,36,27,730,700,715,90
